@@ -26,7 +26,7 @@ This is an example benchmarking document. The ORB algorithm is used for detectin
 A single video file, with a resolution of 1920x1080 @ 30 FPS (Total 750 frames) has been used as the test case. The file has been taken from [this](https://motchallenge.net/vis/MOT17-13-SDP) online database (RAW sequence). Before use, it was converted from .webm format to .mp4, encoded using a FFMPEG codec recognized by OpenCV. 
 
 ### __Results__
-![Imgur](https://i.imgur.com/xtVE2Zk.png)
+![Imgur](images/table.png)
 Figure 1: Benchmarking Results   
 []()    
 
