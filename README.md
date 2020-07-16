@@ -68,3 +68,5 @@ root
             Algorithm_n.md
             <any other relevant files>
 ```
+
+When adding a benchmark, please make a new branch with the name `<algorithm_class>/<algorithm_name>`and when you are done benchmarking, open a PR to merge your branch into master.
